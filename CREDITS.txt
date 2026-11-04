@@ -1,0 +1,35 @@
+Placeholder photography
+=======================
+
+Every photograph here is CC0 / Public Domain Mark, sourced via the
+Openverse API — no attribution required, commercial use fine. Where no
+public-domain photograph matched a slot, the file is a generated gradient
+instead; those are marked below and carry no rights at all.
+
+Either way these are placeholders: replace them with your own photography
+before launch. Provenance for each file follows.
+
+stream.jpg
+  Stream water waterfall rock Silberkarklamm
+  CC0 1.0
+  https://www.rawpixel.com/image/3292726/free-photo-image-austria-best-stone-pictures-images-canyon
+
+weir.jpg
+  King's Weir, River Lea Peter
+  CC0 1.0
+  https://www.rawpixel.com/image/14315787/kings-weir-river-lea-peter-henry-emerson
+
+riparian.jpg
+  Free river forest background
+  CC0 1.0
+  https://www.rawpixel.com/image/5919806/photo-image-aesthetic-background
+
+library.jpg
+  Old library
+  CC0 1.0
+  https://www.rawpixel.com/image/6033185/old-library-free-public-domain-cc0-photo
+
+notebook.jpg
+  opened notebook map
+  CC0 1.0
+  https://www.rawpixel.com/image/3283737/free-photo-image-blank-notebook-writing-travel
